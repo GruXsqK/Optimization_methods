@@ -1,1 +1,1 @@
-# Optimization_methods
+# Методы оптимизации
